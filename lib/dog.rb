@@ -1,5 +1,5 @@
 class  Dog 
-  puts fido
+  puts "hi"
 end
 
 fido = Dog.new
