@@ -1,5 +1,6 @@
 class  Dog 
-  def dogs 
+  def dog 
+    puts dog 
   end
 end
 
