@@ -1,6 +1,6 @@
 class  Dog 
   
-  def dog 
+  def puppy(x) 
     puts "Woof" 
   end
   
