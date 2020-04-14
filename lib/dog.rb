@@ -1,6 +1,7 @@
 class  Dog 
   def dogs 
-    
-  puts "hi"
+    fido = Dog.new
+    snoopy = Dog.new
+    lassie = Dog.new
 end
 
