@@ -1,4 +1,5 @@
 class  Dog 
+  puts fido
 end
 
 fido = Dog.new
