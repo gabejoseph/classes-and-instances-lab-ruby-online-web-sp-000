@@ -1,7 +1,9 @@
 class  Dog 
+  
   def dog 
-    puts dog 
+    puts "Woof" 
   end
+  
 end
 
 fido = Dog.new
